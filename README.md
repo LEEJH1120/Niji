@@ -14,3 +14,10 @@
 - Sid Meier's Civilization - FIRAXIS GAMES
 - Fall Guys - Mediatonic
 - Grand Theft Auto V - Rockstar Games
+
+## 好きな旅先 (ムスビ_MUSUBI)
+- みなとみらい - 神奈川
+- お台場 - 東京
+- ソウル - 韓国
+- 梅田, 難波 - 大阪
+- 栄 - 名古屋
